@@ -14,3 +14,7 @@
       <p>Текст</p>
   </li>
 */
+
+
+import "./js/render-tasks"
+import "./js/theme-switcher"
